@@ -27,3 +27,11 @@
 	Mid-stride through the door he turned and adjourned the meeting, "and for the love of God, please kill the Beethoven. Give me Debussy."
 
 	He was right too. Not a single person, outside of the Child development team, had a clue about what was in store - minus wild speculation of course. The product is practically human - except it didn't get sick and it interconnected with every device in the house, and every other Child robot as well. No commercial was necessary; the thing was going to change the world.
+
+// Chapter 1
+
+INITIALISING NETWORK CONNECTION...
+
+LOADING LOGIC MODELS...
+
+		The engineer idly tapped his fingers against the glowing dashboard, gazing out into the cramped glass pen lit with fluorescent light. As his mind started to wander, he was rudely awakened from his daydream by a loud whirring. He looked into the pen, hoping to see the child booting up, but it was empty. All of a sudden, he felt a cold, metallic hand on the back of his head and everything went black.
